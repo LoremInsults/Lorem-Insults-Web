@@ -1,0 +1,22 @@
+{
+  "name": "loreminsults",
+  "version": "1.0.0",
+  "description": "Atom package and web component that generates insults in lieu of the same old lorem ipsum.",
+  "main": "knexfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LoremInsults"
+  },
+  "keywords": [
+    "lorem",
+    "ipsum",
+    "atom",
+    "package",
+    "insults"
+  ],
+  "author": "",
+  "license": "MIT"
+}
